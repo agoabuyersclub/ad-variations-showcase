@@ -1,0 +1,24 @@
+Loading scopes…
+Searching for existing projects…
+Linked to mark-yentzers-projects/ad-showcase (created .vercel and added it to .gitignore)
+> Connecting GitHub repository: https://github.com/agoabuyersclub/ad-variations-showcase
+> Connected
+Deploying mark-yentzers-projects/ad-showcase
+Uploading [--------------------] (0.0B/483.7KB)
+Uploading [=====---------------] (126.4KB/483.7KB)
+Uploading [==========----------] (244.2KB/483.7KB)
+Uploading [===============-----] (375.1KB/483.7KB)
+Uploading [====================] (483.7KB/483.7KB)
+Inspect: https://vercel.com/mark-yentzers-projects/ad-showcase/EoTCTccoqEt5zMgtpeJe8UAbTiQt [4s]
+Production: https://ad-showcase-qwvem5jgn-mark-yentzers-projects.vercel.app [4s]
+https://ad-showcase-qwvem5jgn-mark-yentzers-projects.vercel.appBuilding...
+Building...
+Building: Running build in Washington, D.C., USA (East) – iad1
+Building: Build machine configuration: 2 cores, 8 GB
+Building: Retrieving list of deployment files...
+Building: Previous build caches not available.
+Building: Downloading 14 deployment files...
+[2K[1A[2K[GProduction: https://ad-showcase-qwvem5jgn-mark-yentzers-projects.vercel.app [9s]
+Completing...
+Aliased: https://ad-showcase-kappa.vercel.app [10s]
+Due to `builds` existing in your configuration file, the Build and Development Settings defined in your Project Settings will not apply. Learn More: https://vercel.link/unused-build-settings
